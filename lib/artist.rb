@@ -48,19 +48,4 @@ class Artist
     end
   end
 
-
-
-
-  # def name=(name)
-  #   @name = name
-  # end
-  #
-  # def songs(name)
-  #   @@songs
-  # end
-  #
-  # def self.add_song(song_one)
-  #   @@songs << Song.new(song_one)
-  # end
-
 end
